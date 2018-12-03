@@ -15,28 +15,28 @@
 
 ## Tool
 
-[QuickLook](https://github.com/QL-Win/QuickLook/releases) 敲击空格键快速预览
+[QuickLook](https://github.com/QL-Win/QuickLook/releases) - 敲击空格键快速预览
 
-[Wox](http://www.wox.one/) Windows 上的 Alfred
+[Wox](http://www.wox.one/) - Windows 上的 Alfred
 
-[Everything](https://www.voidtools.com/) 强大的文件搜索工具
+[Everything](https://www.voidtools.com/) - 强大的文件搜索工具
 
-[Shadowsocks](https://github.com/shadowsocks/shadowsocks-windows) 小飞机
+[Shadowsocks](https://github.com/shadowsocks/shadowsocks-windows) - 小飞机
 
-[WSL-Terminal](https://github.com/goreliu/wsl-terminal/releases) 使 WSL 变得更好用 
+[WSL-Terminal](https://github.com/goreliu/wsl-terminal/releases) - 使 WSL 变得更好用 
 
-[Dism++](http://www.chuyu.me/zh-Hans/index.html) 基于 CBS 的 Dism GUI 实现。
+[Dism++](http://www.chuyu.me/zh-Hans/index.html)  - 基于 CBS 的 Dism GUI 实现。
 
-[My Dock](https://pan.baidu.com/s/1i5CwGYh)  仿 Mac OS 的 Dock
+[My Dock](https://pan.baidu.com/s/1i5CwGYh) -  仿 Mac OS 的 Dock
 
 ## Editor
 
-[Typora](https://typora.io/) Markdown 编辑器
+[Typora](https://typora.io/) - Markdown 编辑器
 
 ## Browser
 
-[Velocity](http://velocity.silverlakesoftware.com/) Windows上的 Dash 程序员的好帮手
+[Velocity](http://velocity.silverlakesoftware.com/) - Windows上的 Dash 程序员的好帮手
 
 ## Downloader
 
-[Free Download Manager](https://www.freedownloadmanager.org/zh/) 免费的 Internet 下载工具
+[Free Download Manager](https://www.freedownloadmanager.org/zh/) - 免费的 Internet 下载工具
