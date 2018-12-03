@@ -25,7 +25,7 @@
 
 [WSL-Terminal](https://github.com/goreliu/wsl-terminal/releases) 使 WSL 变得更好用 
 
-[Dism++](http://www.chuyu.me/zh-Hans/index.html] 基于 CBS 的 Dism GUI 实现。
+[Dism++](http://www.chuyu.me/zh-Hans/index.html) 基于 CBS 的 Dism GUI 实现。
 
 [My Dock](https://pan.baidu.com/s/1i5CwGYh)  仿 Mac OS 的 Dock
 
