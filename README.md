@@ -17,6 +17,8 @@
 
 [QuickLook](https://github.com/QL-Win/QuickLook/releases) - 敲击空格键快速预览
 
+[Seer](http://www.1218.io/seer.html) - 另一款空格键快速预览
+
 [Wox](http://www.wox.one/) - Windows 上的 Alfred
 
 [Everything](https://www.voidtools.com/) - 强大的文件搜索工具
@@ -28,6 +30,12 @@
 [Dism++](http://www.chuyu.me/zh-Hans/index.html)  - 基于 CBS 的 Dism GUI 实现。
 
 [My Dock](https://pan.baidu.com/s/1i5CwGYh) -  仿 Mac OS 的 Dock
+
+[Geek Uninstaller](https://geekuninstaller.com/download) - 强力卸载工具
+
+[Mathpix Snip](https://mathpix.com/) - 公式图片转 LaTeX
+
+[CopyTranslator](https://github.com/CopyTranslator/CopyTranslator/blob/master/README_zh.md) - 解决了PDF复制换行的翻译器
 
 ## Editor
 
