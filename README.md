@@ -37,6 +37,8 @@
 
 [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator/blob/master/README_zh.md) - 解决了PDF复制换行的翻译器
 
+[Orkas](https://orkas.ai/?source=gh_frost) - 开源、本地优先的 AI 团队桌面应用，由 Commander 通过一个对话协调专业 Agent 完成复杂工作。
+
 ## Editor
 
 [Typora](https://typora.io/) - Markdown 编辑器
