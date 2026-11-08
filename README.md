@@ -36,6 +36,7 @@
 [Mathpix Snip](https://mathpix.com/) - 公式图片转 LaTeX
 
 [CopyTranslator](https://github.com/CopyTranslator/CopyTranslator/blob/master/README_zh.md) - 解决了PDF复制换行的翻译器
+[LatchLayout](https://github.com/stanczykwyatt/latchlayout/releases/tag/v0.2.0) - Windows 11 工作区启动工具，长按自定义按键或鼠标按钮，打开应用、浏览器配置文件及网址并按显示器布局排列（预览版）。
 
 ## Editor
 
